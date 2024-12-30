@@ -22,6 +22,9 @@ Java Development Kit (JDK) 8+
 
 Maven or Gradle
 
+
+
+
 MySQL Server
 
 Postman (optional for testing)
